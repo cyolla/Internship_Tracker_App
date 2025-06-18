@@ -1,16 +1,34 @@
-# internship
+# 📱 Internship Tracker App
 
-A new Flutter project.
+A clean and user-friendly **Flutter application** to manage, view, and apply for internships. Designed to help students and job seekers organize internship opportunities efficiently.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🖼️ Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home Screen | Add Internship | Internship Details | Apply Now |
+|-------------|----------------|--------------------|-----------|
+| ![Home](assets/screenshots/home.png) | ![Add](assets/screenshots/add.png) | ![Details](assets/screenshots/details.png) | ![Apply](assets/screenshots/apply.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- ✅ Add internships (company, role, duration, description)
+- 📃 View detailed information of internships
+- 🗑️ Delete unwanted entries
+- 🧾 Apply for internships via a form (name, email, resume note)
+- 💬 Confirmation dialog after successful application
+- Clean and minimal UI with Material 3 design
+
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Flutter** 3.x
+- **Dart** language
+- **Material Design 3**
+- No external plugins – lightweight and easy to run
+
+
+
