@@ -1,2 +1,16 @@
-# Internship_Tracker_App
-The Internship Tracker App is a Flutter-based mobile application that helps users manage and track internships. Users can add internship opportunities, view detailed information, and even apply to internships via a structured application form. The app features a clean and user-friendly interface with smooth navigation and persistent data handling
+# internship
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
