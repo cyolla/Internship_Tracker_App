@@ -8,8 +8,7 @@ A clean and user-friendly **Flutter application** to manage, view, and apply for
 
 | Home Screen | Add Internship | Internship Details | Apply Now |
 |-------------|----------------|--------------------|-----------|
-| ![Home](<img width="956" alt="home" src="https://github.com/user-attachments/assets/9f53aa2f-493f-4cdb-882c-a1c3246aed49" />) | ![Add](assets/screenshots/add.png) | ![Details](assets/screenshots/details.png) | ![Apply](assets/screenshots/apply.png) |
-
+| ![Home](<img width="956" alt="home" src="https://github.com/user-attachments/assets/9f53aa2f-493f-4cdb-882c-a1c3246aed49" />) 
 ---
 
 ## ✨ Features
